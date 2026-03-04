@@ -8,3 +8,8 @@ This repository provides:
 3. Scripts for reproducing figures in the paper
 
 ## Files
+1. Simulation/
+  - The R scripts in this folder generate the simulation experiments. Files starting with `SimulationPlot_` produce plots for the simulation results. The `.RData` files contain saved simulation outputs.
+
+2. Real data analysis/
+  - This folder contains an R script for the real data analysis.
